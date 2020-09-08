@@ -1,0 +1,13 @@
+E:\Projects\C#\Factorial\FindFactorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+E:\Projects\C#\Factorial\FindFactorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+E:\Projects\C#\Factorial\FindFactorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+E:\Projects\C#\Factorial\FindFactorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+E:\Projects\C#\Factorial\FindFactorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+E:\Projects\C#\Factorial\FindFactorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+E:\Projects\C#\Factorial\FindFactorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+E:\Projects\C#\Factorial\FindFactorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+E:\Projects\C#\Factorial\FindFactorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+E:\Projects\C#\Factorial\FindFactorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Factorial\FindFactorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+E:\Projects\C#\Factorial\FindFactorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+E:\Projects\C#\Factorial\FindFactorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
